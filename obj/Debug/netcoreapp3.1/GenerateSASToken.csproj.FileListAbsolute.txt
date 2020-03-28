@@ -1,0 +1,11 @@
+P:\Development\GenerateSASToken\bin\Debug\netcoreapp3.1\GenerateSASToken.exe
+P:\Development\GenerateSASToken\bin\Debug\netcoreapp3.1\GenerateSASToken.deps.json
+P:\Development\GenerateSASToken\bin\Debug\netcoreapp3.1\GenerateSASToken.runtimeconfig.json
+P:\Development\GenerateSASToken\bin\Debug\netcoreapp3.1\GenerateSASToken.runtimeconfig.dev.json
+P:\Development\GenerateSASToken\bin\Debug\netcoreapp3.1\GenerateSASToken.dll
+P:\Development\GenerateSASToken\bin\Debug\netcoreapp3.1\GenerateSASToken.pdb
+P:\Development\GenerateSASToken\obj\Debug\netcoreapp3.1\GenerateSASToken.csprojAssemblyReference.cache
+P:\Development\GenerateSASToken\obj\Debug\netcoreapp3.1\GenerateSASToken.AssemblyInfoInputs.cache
+P:\Development\GenerateSASToken\obj\Debug\netcoreapp3.1\GenerateSASToken.AssemblyInfo.cs
+P:\Development\GenerateSASToken\obj\Debug\netcoreapp3.1\GenerateSASToken.dll
+P:\Development\GenerateSASToken\obj\Debug\netcoreapp3.1\GenerateSASToken.pdb
